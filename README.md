@@ -1,2 +1,2 @@
-# bmi701
+# BMI701
 Foundations of Biomedical Informatics
